@@ -12,6 +12,7 @@
 ## **Reconocimiento de Patrones** <a name="id1"></a>
 
 ## **Presentación del equipo** <a name="id2"></a>
+***Luis Danilo Chirre Arias*** (luis.chirre@pucp.edu.pe), asdf
 
 ## **Proyecto de curso** <a name="id3"></a>
 * Descripción del proyecto <a id="dsc"></a>
