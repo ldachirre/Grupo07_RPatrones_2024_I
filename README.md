@@ -10,6 +10,10 @@
    - [Operacionalización de la variable (target)](#ope)
 
 ## **Reconocimiento de Patrones** <a name="id1"></a>
+El reconocimiento de patrones es un campo interdisciplinario que se enfoca en identificar regularidades o patrones significativos en datos complejos. Estos patrones pueden manifestarse en diversas formas, como señales, imágenes, secuencias temporales o conjuntos de datos. El objetivo principal del reconocimiento de patrones es extraer información útil, tomar decisiones o realizar predicciones basadas en estos patrones identificados.
+
+Esperamos aprender a utilizar técnicas de Machine Learning y Deep Learning para analizar datos de salud. Esto incluirá entender algoritmos de aprendizaje, métodos supervisados y no supervisados, y aplicar redes neuronales para identificar patrones relevantes. Con la finalidad de adquirir habilidades para abordar problemas biomédicos mediante el análisis y aprovechamiento de datos complejos.
+
 
 ## **Presentación del equipo** <a name="id2"></a>
 **Luis Danilo Chirre Arias** (luis.chirre@upch.pe), estudiante de octavo ciclo de ingeniería biomédica de la Universidad Peruana Cayetano Heredia (UPCH) y la Pontificia Universidad Católica del Perú (PUCP). Interesado en las áreas de Procesamiento de Señales Biomédicas e Ingeniería Clínica, específicamente en señales EEG y la aplicación de modelos de Machine Learning y Deep Learning.
