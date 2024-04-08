@@ -1,0 +1,21 @@
+﻿Subject Number,Age,Gender,Height [cm],History of Smoking (yes/no),Smoking Frequency,History of vaping (yes/no),Frequency of vaping,Heart condition (yes/no),Asthma (yes/no and severity)
+1,24,Female,160-169,No,N/A,No,N/A,No,No 
+2,21,Male,170-179,No,N/A,No,N/A,No,No 
+3,23,Male,180-189,No,N/A,No,N/A,No,No 
+4,22,Female,170-179,No,N/A,No,N/A,No,Yes - Mild
+5,30,Male,170-179,Yes,Less than once a week ,No ,N/A,No,No 
+6,29,Male,180-189,No,N/A,No,N/A,No,No 
+7,24,Female,170-179,No,N/A,No,N/A,No,No 
+8,21,Female,160-169,No,N/A,No,N/A,No,No 
+9,23,Female,170-179,No ,N/A,Yes,More than once a day ,No,Yes - Moderate
+10,27,Male,180-189,No,N/A,No,N/A,No,No 
+11,21,Female,170-179,No,N/A,No,N/A,No,No 
+12,22,Female,180-189,No,N/A,No,N/A,No,No 
+13,28,Male,170-179,No,N/A,No,N/A,No,No 
+14,21,Male,170-179,No,N/A,No,N/A,No,No 
+15,24,Male,170-179,No,N/A,No,N/A,No,No 
+16,24,Male,170-179,No,N/A,No,N/A,No,No 
+17,29,Male,180-189,No,N/A,Yes,Less than once a week ,No ,No 
+18,22,Female,160-169,No ,N/A,No,N/A,No,No 
+19,22,Female,180-189,No,N/A,Yes,Once a day ,No ,No 
+20,21,Female,170-179,No,N/A,No,N/A,No,No 
